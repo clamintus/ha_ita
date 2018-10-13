@@ -1,4 +1,4 @@
-## Traduzione italiana Fate/hollow ataraxia
+# Traduzione italiana Fate/hollow ataraxia
 
 **IMPORTANTE: NON MODIFICARE I FILE DA GITHUB WEB O DALL'APP. UTILIZZARE ESCLUSIVAMENTE EDITOR DI TESTO SUPPORTANTI LA CODIFICA UTF-16-LE**
 
