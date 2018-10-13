@@ -8,11 +8,11 @@ Guida per i traduttori
 
 > -Scaricare [GitHub Desktop](https://desktop.github.com/) e [Notepad++](https://notepad-plus-plus.org/download);
 >
-> -Registrarsi nel sito di GitHub e cercare il progetto "clamintus/ha_ita";
+> -Registrarsi nel sito di GitHub e cercare il progetto `clamintus/ha_ita`;
 >
 > -Una volta avuti i permessi, clonare il progetto nel programma Desktop di GitHub e clickare "Fetch Origin" (o altrimenti "Pull Origin");
 >
-> -Da qui avrete una cartella (dovrebbe essere C:\Documenti\GitHub\ha_ita) con tutti i file del gioco;
+> -Da qui avrete una cartella (dovrebbe essere `C:\Documents\GitHub\ha_ita`) con tutti i file del gioco;
 >
 > -In ogni cartella ci sono dei file di testo da aprire con (rigorosamente) Notepad++;
 >
