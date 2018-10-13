@@ -6,7 +6,7 @@ Guida per i traduttori
 ---
 (Presa da [Fate/Hollow Files](https://t.me/joinchat/AAAAAE_hQcxHlSnCgYKDsw))
 
-> -Scaricare GitHub Desktop e Notepad ++;
+> -Scaricare [GitHub Desktop](https://desktop.github.com/) e [Notepad++](https://notepad-plus-plus.org/download);
 >
 > -Registrarsi nel sito di GitHub e cercare il progetto "clamintus/ha_ita";
 >
