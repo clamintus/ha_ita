@@ -20,4 +20,4 @@ Guida per i traduttori
 >
 > -Una volta finita la traduzione in quella sessione, salvare il file, su GitHub Desktop premere il pulsante blu "Commit to master" (dopo aver inserito nella descrizione del commit - ovvero il campo sopra il pulsante - una sintesi delle parti modificate e altre eventuali note) e clickare su "Push Origin".
 >
-> -Se avete problemi tecnici, segnalateli a [@xClamintus](t.me/xClamintus).
+> -Se avete problemi tecnici, segnalateli a [@xClamintus](https://t.me/xClamintus).
