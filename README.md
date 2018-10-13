@@ -14,7 +14,7 @@ Guida per i traduttori
 >
 > -Da qui avrete una cartella (dovrebbe essere C:\Documenti\GitHub\ha_ita) con tutti i file del gioco;
 >
-> -In ogni cartella ci sono dei file di testo da aprire con (rigorosamente) Notepad ++;
+> -In ogni cartella ci sono dei file di testo da aprire con (rigorosamente) Notepad++;
 >
 > -DOVETE MODIFICARE SOLAMENTE LE FRASI E NON DOVETE ASSOLUTAMENTE ELIMINARE COMANDI O VIRGOLETTE, quindi evitate le righe con le parentesi quadre.
 >
