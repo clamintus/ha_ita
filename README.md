@@ -12,7 +12,7 @@ Guida per i traduttori
 >
 > -Una volta avuti i permessi, clonare il progetto nel programma Desktop di GitHub e clickare "Fetch Origin" (o altrimenti "Pull Origin");
 >
-> -Da qui avrete una cartella (dovrebbe essere `C:\Documents\GitHub\ha_ita`) con tutti i file del gioco;
+> -Da qui avrete una cartella (dovrebbe essere `Documents\GitHub\ha_ita`) con tutti i file del gioco;
 >
 > -In ogni cartella ci sono dei file di testo da aprire con (rigorosamente) Notepad++;
 >
