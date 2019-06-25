@@ -4,16 +4,16 @@
 @se storage=se271.wav
 @play time=5000 storage=bgm103.ogg
 @fadein time=800 storage=06青空03
-　Incidentally, I overheard a rumor at a street corner.[lr]
-　On the outskirts of Shinto, in the forest beyond the church, there stands a Western-style house, and nobody knows where it came from.[lr]
-　The rumor spread with surprising swiftness. It seems there are people who have actually found it, too.
+　Casualmente, ho sentito un pettegolezzo nell'angolo della strada.[lr]
+　Nella periferia di Shinto, nella foresta al di là della chiesa, è presente una casa in stile Occidentale, e nessuno sa da dove provenga.[lr]
+　Questa diceria si è sparsa con una rapidità sorprendente. Inoltre sembra che qualcuno abbia confermato che abbia degli interni di quello stile.
 @pg
 *page1|
 @say storage=CTY0103_SHI_02183
-“[line len=3]People sure are curious. The people that started this rumor, and the ones that went around every mansion to look for it.”[lr]
+“[line len=3]La gente è sicuramente interessata.Sia le persone che hanno fatto girare questo pettegolezzo, sia quelli che andavano in giro dappertutto per cercarla.”[lr]
 @r
-　One of these curious fellows is right here.[lr]
-　Man, don't I have better things to do?
+　Uno di questi è proprio qui.[lr]
+　Diamine, non ho niente di meglio da fare?
 @pg
 *page2|
 @say
@@ -48,13 +48,13 @@
 @wm canskip=0
 @wm canskip=0
 @say storage=CTY0103_SHI_02184
-“Whoa, that didn't take long.”[lr]
-　The rumoured haunted house was quite easy to find.[lr]
-　By the way, I never did get to hear what's so haunted about it.
+“Cavolo, non c'è voluto tanto.”[lr]
+　La casa di cui tanto si parla è stata abbastanza facile da trovare.[lr]
+　A proposito, non ho mai capito il perché venga chiamata "la villa infestata".
 @pg
 *page3|
-　I have no business being in a place like this.[lr]
-　There's probably nothing inside, and it'd be trespassing to begin with.[lr]
+　Non ho alcun motivo per rimanere qui, soprattutto in un posto come questo.[lr]
+　Probabilmente all'interno non ci sarà nulla, e inoltre sarebbe una violazione di proprietà privata.[lr]
 @playstop time=800 nowait=1
-　I[line len=3]
+　Io[line len=3]
 @return
